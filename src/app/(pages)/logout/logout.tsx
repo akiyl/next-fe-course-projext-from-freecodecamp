@@ -15,7 +15,7 @@ const LogoutPage = () => {
     });
   }, []);
 
-  return <></>;
+  return <><h1>LOGOUT HERE! </h1></>;
 };
 
 export default LogoutPage;
